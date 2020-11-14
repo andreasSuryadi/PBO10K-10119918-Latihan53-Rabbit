@@ -12,7 +12,7 @@ package pbo10k10119918latihan53rabbit;
  * KELAS     : IF-10K
  * NIM       : 10119918
  * Deskripsi Program : Program ini bertujuan untuk menampilkan data kelinci
- * menggunakan sistem konstruktor
+ * menggunakan sistem override constructor
  * 
  */
 
